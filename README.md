@@ -14,11 +14,11 @@ Backend:
 
 Frontend:
 
-HTML
-Bootstrap
-CSS
-JavaScript
-JQuery
+- HTML
+- Bootstrap
+- CSS
+- JavaScript
+- JQuery
 
 ## Time de Desenvolvedores
 - Daniel Alves
