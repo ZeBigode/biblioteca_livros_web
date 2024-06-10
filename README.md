@@ -1,21 +1,30 @@
 # biblioteca_livros_web
--PI do curso do senac de uma biblioteca web
+- PI do curso do senac de uma biblioteca web
 
 ## Status do Projeto
--Em desenvolvimento
+- Em desenvolvimento
 
 ## Tecnologias Aplicadas
-- HTML
-- CSS
-- JavaScript
-- java
-- MySql
+Backend:
+
+- Java
+- Spring Boot
+- MySQL
+- SQL
+
+Frontend:
+
+HTML
+Bootstrap
+CSS
+JavaScript
+JQuery
 
 ## Time de Desenvolvedores
 - Daniel Alves
 
 ## Objetivo do Software
--O objetivo deste software é permitir que os usuários pesquisem por livros em um catálogo online, visualizem informações detalhadas sobre os livros e leiam os textos dos livros disponíveis.
+- O objetivo deste software é permitir que os usuários pesquisem por livros em um catálogo online, visualizem informações detalhadas sobre os livros e leiam os textos dos livros disponíveis.
 
 ## Funcionalidades do Sistema
 - Pesquisa de livros por título, autor ou categoria.
